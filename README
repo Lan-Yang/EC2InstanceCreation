@@ -1,0 +1,4 @@
+This program realizes the following functions.
+1. Check and describe available images and current instances on Amazon AWS.
+2. Create and describe a new EC2 instance.
+3. Implement automatic login to the newly created instance by SSH.
